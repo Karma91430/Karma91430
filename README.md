@@ -29,7 +29,12 @@
 
 ### Discover my work
 - 🔎 [Portfolio](https://www.karma91430.github.io)
-- [LinkedIn](https://www.linkedin.com/in/arthur-delerue/)
+- <a href=”https://www.linkedin.com/in/arthur-delerue/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Arthur Delerue | LinkedIn” width=”21px”/></a>
+
+### Stats
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/Karma91430)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/Karma91430)
 
 <!--
 **Karma91430/Karma91430** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
