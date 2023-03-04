@@ -29,8 +29,8 @@
 
 ### Discover my work
 - 🔎 [Portfolio](https://www.karma91430.github.io)
-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) LinkedIn](https://www.linkedin.com/in/arthur-delerue/)
-
+- <a href=”https://www.linkedin.com/in/arthur-delerue/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
+- 
 ### Stats
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Karma91430)](https://github.com/Karma91430)
 
