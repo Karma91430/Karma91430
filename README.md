@@ -29,15 +29,16 @@
 
 ### Discover my work
 - 🔎 [Portfolio](https://www.karma91430.github.io)
-- ![LinkedIn](./images/linkedin.svg)
+- [![Linkedin](./images/linkedin.svg) LinkedIn](https://www.linkedin.com/in/arthur-delerue/)
+&nbsp;
 
 
 ### Stats
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Karma91430)](https://github.com/Karma91430)
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karma91430&layout=compact)](https://github.com/Karma91430)
 
-<!--
 **Karma91430/Karma91430** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
