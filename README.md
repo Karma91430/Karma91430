@@ -29,7 +29,7 @@
 
 ### Discover my work
 - 🔎 [Portfolio](https://www.karma91430.github.io)
-- [![Linkedin](./images/linkedin.svg) LinkedIn](https://www.linkedin.com/in/arthur-delerue/)
+- [![Linkedin](./images/linkedin.png) LinkedIn](https://www.linkedin.com/in/arthur-delerue/)
 &nbsp;
 
 
