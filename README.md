@@ -29,10 +29,7 @@
 
 ### Discover my work
 - 🔎 [Portfolio](https://www.karma91430.github.io)
-- <a href=”https://www.linkedin.com/in/arthur-delerue"><img align=”left” src=”./images/linkedin.svg" alt=”Arthur Delerue | LinkedIn” width=”21px”/></a>
-
-### Stats
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Karma91430)](https://github.com/Karma91430)
+- [LinkedIn](https://www.karma91430.github.io](https://www.linkedin.com/in/arthur-delerue)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karma91430&layout=compact)](https://github.com/Karma91430)
