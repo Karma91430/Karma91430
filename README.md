@@ -31,6 +31,9 @@
 - 🔎 [Portfolio](https://www.karma91430.github.io)
 - [LinkedIn](https://www.linkedin.com/in/arthur-delerue)
 
+### Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karma91430)](https://github.com/Karma91430)
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karma91430&layout=compact)](https://github.com/Karma91430)
 
