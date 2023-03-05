@@ -32,7 +32,7 @@
 - [LinkedIn](https://www.linkedin.com/in/arthur-delerue)
 
 ### Stats
-[![Top Langs](https://github-readme-stats-karma91430.vercel.app/api/top-langs/?username=Karma91430&show_icons=true)](https://github.com/Karma91430)
+[![Top Langs](https://github-readme-stats-lake-alpha.vercel.app/api/top-langs/?username=Karma91430&show_icons=true)](https://github.com/Karma91430)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karma91430&layout=compact)](https://github.com/Karma91430)
