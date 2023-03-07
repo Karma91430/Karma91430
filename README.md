@@ -28,7 +28,7 @@
   [![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,git,docker)](https://skillicons.dev)
 
 ### Discover my work
-- 🔎 [Portfolio](Karma91430.github.io)
+- 🔎 [Portfolio](https://karma91430.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/arthur-delerue)
 
 <!--
