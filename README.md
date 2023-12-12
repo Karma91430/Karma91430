@@ -3,7 +3,7 @@
 ### About me
 - 🎓 Digital engineering student at ISEP, specialized in Software Engineering.
 - ✨ I’m passionate about mobile and software development.
-- 💻 I'm working as a softwore ingeneer in THALES
+- 💻 I'm worked as a software ingeneer in THALES
 - 🗻 I love japanese culture.
 
 ### Tech stack
