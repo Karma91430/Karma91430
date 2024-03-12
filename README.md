@@ -1,8 +1,8 @@
 ### Hi, I'm Arthur Delerue 👋
 
 ### About me
-- 🎓 Digital engineering student at ISEP, specialized in Software Engineering.
-- ✨ I’m passionate about mobile and software development.
+- 🎓 Data Scientist at Allianz France, specialized in Process Mining.
+- ✨ I’m passionate about Data and Regression Models.
 - 💻 I'm worked as a software ingeneer in THALES
 - 🗻 I love japanese culture.
 
