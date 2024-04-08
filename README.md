@@ -2,8 +2,8 @@
 
 ### About me
 - 🎓 Data Scientist at Allianz France, specialized in Process Mining.
-- ✨ I’m passionate about Data and Regression Models.
-- 💻 I'm worked as a software ingeneer in THALES
+- ✨ I’m passionate about Data and DeepLearning Models.
+- 💻 I'm currently working on a new project about Finance for everyone ! 
 - 🗻 I love japanese culture.
 
 ### Tech stack
@@ -15,7 +15,7 @@
 
  [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
  
- - Java | Kotlin | C | C++ | Python 
+ - Java | Kotlin | C | C++ | Python | PyTorch 
  
  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,c,cpp,py)](https://skillicons.dev)
  
