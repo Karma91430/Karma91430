@@ -2,11 +2,15 @@
 
 ### About me
 - 🎓 Data Scientist at Allianz France, specialized in Process Mining.
-- ✨ I’m passionate about Data and DeepLearning Models.
+- ✨ I’m passionate about Data and DeepLearning Models (Tensorflow :heart:).
 - 💻 I'm currently working on a new project about Finance for everyone ! 
 - 🗻 I love japanese culture.
 
 ### Tech stack
+ - Python | Tensorflow
+ 
+ [![My Skills](https://skillicons.dev/icons?i=py,tensorflow)](https://skillicons.dev)
+
  - Flutter | ReactNative | TypeScript 
  
  [![My Skills](https://skillicons.dev/icons?i=flutter,react)](https://skillicons.dev)
@@ -15,9 +19,9 @@
 
  [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
  
- - Java | Kotlin | C | C++ | Python | PyTorch 
+ - Java | Kotlin | C | C++ 
  
- [![My Skills](https://skillicons.dev/icons?i=java,kotlin,c,cpp,py)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=java,kotlin,c,cpp)](https://skillicons.dev)
  
  - Firebase | PostgreSQL | SQLite
  
