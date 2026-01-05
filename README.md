@@ -1,7 +1,7 @@
 ### Hi, I'm Arthur Delerue 👋
 
 ### About me
-- 🎓 Data Scientist at Allianz France, specialized in Process Mining.
+- 🎓 Data Scientist at SILAMIR Group, specialized in Process Mining, ML & Agentic.
 - ✨ I’m passionate about Data and DeepLearning Models (Tensorflow :heart:).
 - 💻 I'm currently working on a new project about Finance for everyone ! 
 - 🗻 I love japanese culture.
